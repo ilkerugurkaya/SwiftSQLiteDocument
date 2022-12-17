@@ -65,8 +65,8 @@ The sample database image is as follows.
 
 <img width="1710" alt="Ekran Resmi 2022-11-29 21 52 11" src="https://user-images.githubusercontent.com/112544173/204625138-8d7df0cd-887b-4b75-b8a6-ae92d12f29c2.png">
 
-Geri kalan kodlamalar repodaki dosyalarda mevcut. ViewController üzerinden çalıştırılıyor, yorum satırları halinde olan metodların nasıl kullanılacağını gösteriyor. Kisilerdao dosyasının içinde SQLite kullanımı filan. Eğer sorunuz olursa buradan, instagram adım: @zayedfadi_ yerlerinden bana ulaşıp sorabilirsiniz. Eğer çalışmayan yer olursa yardımcı olmaya çalışırım. Kolay gelsin.
+Geri kalan kodlamalar repodaki dosyalarda mevcut. ViewController üzerinden çalıştırılıyor, yorum satırları halinde olan metodların nasıl kullanılacağını gösteriyor. Kisilerdao dosyasının içinde SQLite kullanımı filan. Eğer sorunuz olursa buradan, instagram adım: @_kayailker yerlerinden bana ulaşıp sorabilirsiniz. Eğer çalışmayan yer olursa yardımcı olmaya çalışırım. Kolay gelsin.
 
-The rest of the encodings are available in the files in the repo. It is run through the ViewController, it shows how to use the methods that are in the form of comments. The use of SQLite inside the Kisilerdao file. If you have any questions, you can contact me from here, my instagram name: @zayedfadi_ and ask. If there is a place that doesn't work, I'll try to help. Good luck with.
+The rest of the encodings are available in the files in the repo. It is run through the ViewController, it shows how to use the methods that are in the form of comments. The use of SQLite inside the Kisilerdao file. If you have any questions, you can contact me from here, my instagram name: @_kayailker and ask. If there is a place that doesn't work, I'll try to help. Good luck with.
 
 
